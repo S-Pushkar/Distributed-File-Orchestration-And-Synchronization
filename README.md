@@ -1,6 +1,6 @@
 # Distributed-File-Orchestration-And-Synchronization
 
-## Team Members
+## Contributors
 - J Yogesh
 - Pushkar S
 - Rahul Baradol
