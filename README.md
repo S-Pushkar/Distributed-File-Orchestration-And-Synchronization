@@ -1,4 +1,4 @@
-# Distributed-File-Orchestration-And-Synchronization
+# File Store
 
 ## Contributors
 - J Yogesh
